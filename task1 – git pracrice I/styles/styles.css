@@ -1,0 +1,8 @@
+html, body, p {
+ font: 1em Arial, Helvetica, sans-serif;
+}
+html, body {
+ color: #000000;
+ background: rgb(254,255,0);
+ background: linear-gradient(0deg, rgba(254,255,0,1) 0%, rgba(0,78,255,1) 100%);
+}
